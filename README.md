@@ -8,3 +8,4 @@ body {
     background-repeat: no-repeat;
 }
 <Steam all role >
+<Persyaratan-awal-ahir menentukan rank tujuan>
