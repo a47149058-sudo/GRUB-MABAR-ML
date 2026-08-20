@@ -1,7 +1,7 @@
 # GRUB-MABAR-ML
 Anti ninja
 body {
-    background-image: url("background.jpeg);
+    background-image: url("background.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
